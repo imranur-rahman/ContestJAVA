@@ -1,0 +1,46 @@
+23 B - Maximum Submatrix 2
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+3
+0
+6 1 1
+1
+
+2 1
+
+1
+1
+10 2 2
+10
+11
+
+2 2
+
+1
+2
+20 4 3
+100
+011
+000
+101
+
+2 2
+
+1
+8 src/Nope
+8 -Xmx512M
+4 Main
+10 Nope.TaskB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.11.01
+30 Codeforces Round #221 (Div. 1)
+1
+30 net.egork.utils.io.InputReader
+31 net.egork.utils.io.OutputWriter
+0
+0

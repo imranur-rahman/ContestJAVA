@@ -1,0 +1,40 @@
+19 D - Common Divisors
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+3
+0
+26 abcdabcd
+abcdabcdabcdabcd
+
+2 2
+
+1
+1
+7 aaa
+aa
+
+2 1
+
+1
+2
+3 a
+b
+1 0
+1
+8 src/Nope
+8 -Xmx256M
+4 Main
+10 Nope.TaskD
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2016.10.28
+30 Codeforces Round #117 (Div. 2)
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0
